@@ -1,0 +1,16 @@
+body {
+    max-width: 500px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+footer {
+    font-size: small;
+}
+
+footer img {
+    width: 100%;
+    height: auto;
+}
