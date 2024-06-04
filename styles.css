@@ -9,6 +9,11 @@ header h1 {
     font-size: 30pt;
 }
 
+main h3 {
+    text-align: center;
+    font-size: 20pt;
+}
+
 footer {
     font-size: small;
 }
